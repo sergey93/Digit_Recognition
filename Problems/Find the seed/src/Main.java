@@ -1,4 +1,3 @@
-import java.io.File;
 import java.util.*;
 
 public class Main {
@@ -24,7 +23,6 @@ public class Main {
         }
         System.out.println(minSeed);
         System.out.println(min);
-        File f = new File("");
 
     }
 }
